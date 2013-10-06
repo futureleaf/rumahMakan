@@ -3,6 +3,6 @@
 
 <body>
 <?php $this->load->view('part/nav'); ?>
-Hello
+Hello Dini
 </body>
 </html>
